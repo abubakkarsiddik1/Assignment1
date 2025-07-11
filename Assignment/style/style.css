@@ -20,8 +20,8 @@
 /* header styles */
 
 .header{
-    background-image: url(./B12A01-landing-launchpad/Assets/Hero-bg.png);
-    background-repeat: no-repeat;
+    background-image: url(../Assets/Hero-bg.png);
+    /* background-repeat: no-repeat; */
     background-position: center;
 }
 
@@ -131,7 +131,7 @@
 }
 
 .action-image img{
-    border-radius: 48px;
+    border-radius: 25px;
 }
 
 
