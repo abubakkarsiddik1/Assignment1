@@ -10,5 +10,78 @@
   font-style: normal;
 }
 
+.logo h1{
+    color: #4E47FF;
+    font-size: 34px;
+    font-weight: 900;
+}
+
+
+/* header styles */
+
+.header{
+    background-image: url("..//../B12A01-landing-launchpad/Assets/Hero-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* navbar style */
+
+.navbar{
+    width: 80%;
+    margin: 0 auto 0 auto;
+    padding: 50px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+
+
+
+
+.btn{
+    color:#FFFFFF;
+    background-color: #4E47FF;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 12px 36px;
+    border: none;
+    border-radius: 10px;
+    transition: background 0.3s ease;
+}
+.btn:hover{
+    background-color: #110cb1;
+}
+
+
+/* banner style */
+
+.banner{
+    /* background-color: aqua; */
+    width: 62%;
+    display: flex;
+    margin: 100px auto 0 auto;
+}
+.banner-tytle h1{
+    color: #252432;
+    font-size: 60px;
+    text-align: center;
+}
+.banner-btn{
+    color:#FFFFFF;
+    background-color: #4E47FF;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 12px 46px;
+    border: none;
+    border-radius: 10px;
+    display: flex;
+    margin: 40px auto 100px auto;
+    transition: background 0.3s ease;
+}
+.banner-btn:hover{
+     background-color: #110cb1;
+}
 
 
